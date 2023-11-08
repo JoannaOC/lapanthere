@@ -7,9 +7,8 @@ body {
   -moz-osx-font-smoothing: grayscale;
 }
 
-#title-realisation {
+.title-realisation {
   font-size: 55px;
-  color: #fcf9f7;
 }
 
 .col-sm-12 p {
