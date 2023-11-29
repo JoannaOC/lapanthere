@@ -789,10 +789,19 @@ h4 {
 }
 
 .portfolio-thumb {
+  display: block;
+  width: 80%;
+  height: auto;
+}
+
+.portfolio-thumb {
   margin-bottom: 24px;
   border-radius: 50%;
   width: 70%;
   border: 5px solid #f3976c;
+}
+.portfolio-thumb:hover {
+  border: 5px solid #191818;
 }
 
 .portfolio-row {
