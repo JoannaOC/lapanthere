@@ -734,6 +734,7 @@ p {
   opacity: 0.6;
 }
 
+
 .h1 {
   font-size: 20px;
   font-family: "Open Sans";
@@ -785,9 +786,11 @@ h4 {
 }
 
 .white {
-  color: #050303 !important;
+  color: #ffffff !important;
 }
-
+.black {
+  color: #0b0a0a !important;
+}
 .portfolio-thumb {
   display: block;
   width: 80%;
